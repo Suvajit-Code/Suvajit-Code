@@ -36,7 +36,7 @@ const developer = {
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b26-4450-a02f-0c0e646a946e.gif" width="100%" alt="divider gif" />
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35" alt="stack icon" /> Tech Stack
 

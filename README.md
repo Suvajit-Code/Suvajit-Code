@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="2125" height="320" alt="github-header-banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0ea5e9&height=320&section=header&text=Suvajit%20Ghosh&fontSize=54&fontColor=ffffff&animation=fadeIn" />
+	<img width="2125" height="400" alt="github-header-banner" src="https://capsule-render.vercel.app/api?type=slice&color=0:0ea5e9,50:1e40af,100:020617&height=400&section=header&text=Suvajit%20Ghosh&fontSize=70&fontColor=ffffff&animation=fadeIn&reversal=false" />
 </div>
 
 <div align="center">

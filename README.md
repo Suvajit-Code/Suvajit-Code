@@ -1,30 +1,22 @@
 <div align="center">
-	<img width="2125" height="575" alt="github-header-banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0ea5e9&height=575&section=header&text=Suvajit%20Ghosh&fontSize=64&fontColor=ffffff&animation=fadeIn" />
+	<img width="2125" height="320" alt="github-header-banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0ea5e9&height=320&section=header&text=Suvajit%20Ghosh&fontSize=54&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 <div align="center">
-	<img height="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Full stack animation" />
+	<img height="220" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Full stack animation" />
 </div>
 
 <div align="center">
 	<h1>
-		<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;UI+Builder;Live+Coding+Enthusiast;Clean+Code+%2B+Modern+Motion" alt="Typing SVG" />
+		<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;UI+Builder;Live+Coding+Enthusiast;Clean+Code+%2B+Modern+Motion" alt="Typing SVG" />
 	</h1>
 
-	<p>
-		<a href="mailto:suvajitg920@gmail.com">
-			<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-		</a>
-		<a href="https://github.com/suvajit-code">
-			<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-		</a>
-		<img src="https://komarev.com/ghpvc/?username=suvajit-code&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-	</p>
+	
 </div>
 
-	<div align="center">
-		<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b26-4450-a02f-0c0e646a946e.gif" width="100%" alt="top divider gif" />
-	</div>
+<div align="center">
+	<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0ea5e9&height=34&section=header" alt="top separator" />
+</div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" alt="about icon" /> About Me
 
@@ -266,5 +258,3 @@ const developer = {
 <div align="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:020617&height=180&section=footer&text=Thanks%20for%20visiting&fontSize=34&fontColor=ffffff&animation=fadeIn" alt="footer banner" />
 </div>
-
-<p align="center">Fixed-style header, stronger work focus, and a cleaner footer finish for a more professional profile presentation.</p>

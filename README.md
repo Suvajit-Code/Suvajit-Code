@@ -1,19 +1,270 @@
-<h1 align="center">Hi 👋, I'm Suvajit Ghosh</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<div align="center">
+	<img width="2125" height="575" alt="github-header-banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0ea5e9&height=575&section=header&text=Suvajit%20Ghosh&fontSize=64&fontColor=ffffff&animation=fadeIn" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suvajit-code&label=Profile%20views&color=0e75b6&style=flat" alt="suvajit-code" /> </p>
+<div align="center">
+	<img height="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Full stack animation" />
+</div>
 
+<div align="center">
+	<h1>
+		<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;UI+Builder;Live+Coding+Enthusiast;Clean+Code+%2B+Modern+Motion" alt="Typing SVG" />
+	</h1>
 
+	<p>
+		<a href="mailto:suvajitg920@gmail.com">
+			<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+		</a>
+		<a href="https://github.com/suvajit-code">
+			<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+		</a>
+		<img src="https://komarev.com/ghpvc/?username=suvajit-code&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+	</p>
+</div>
 
-<h3 align="left">Connect with me: suvajitg920@gmail.com</h3>
-<p align="left">
+	<div align="center">
+		<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b26-4450-a02f-0c0e646a946e.gif" width="100%" alt="top divider gif" />
+	</div>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" alt="about icon" /> About Me
+
+I’m Suvajit Ghosh, a Full Stack Developer from India focused on building practical applications with a polished, animated, and professional developer style.
+
+```javascript
+const developer = {
+	name: "Suvajit Ghosh",
+	location: "India",
+	role: "Full Stack Developer",
+	focus: ["Frontend", "Backend", "Databases"],
+	current: "Building live-coding inspired portfolio experiences",
+	approach: "Learn by building real products",
+	style: "Clean, modern, responsive, animated"
+};
+```
+
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b26-4450-a02f-0c0e646a946e.gif" width="100%" alt="divider gif" />
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35" alt="stack icon" /> Tech Stack
+
+### Languages
+
+<table>
+	<tr>
+		<td align="center" width="96">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
+			<br />C
+		</td>
+		<td align="center" width="96">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+			<br />Python
+		</td>
+		<td align="center" width="96">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+			<br />Java
+		</td>
+		<td align="center" width="96">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+			<br />JavaScript
+		</td>
+		<td align="center" width="96">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+			<br />TypeScript
+		</td>
+	</tr>
+</table>
+
+### Frontend Development
+
+<table>
+	<tr>
+		<td align="center" width="96">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+			<br />HTML5
+		</td>
+		<td align="center" width="96">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+			<br />CSS3
+		</td>
+		<td align="center" width="96">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+			<br />React
+		</td>
+		<td align="center" width="96">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS" />
+			<br />Tailwind
+		</td>
+	</tr>
+</table>
+
+### Backend Development
+
+<table>
+	<tr>
+		<td align="center" width="96">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+			<br />Node.js
+		</td>
+		<td align="center" width="96">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
+			<br />Express
+		</td>
+		<td align="center" width="96">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+			<br />MySQL
+		</td>
+		<td align="center" width="96">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+			<br />MongoDB
+		</td>
+	</tr>
+</table>
+
+### Tools & Technologies
+
+<table>
+	<tr>
+		<td align="center" width="96">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+			<br />Git
+		</td>
+		<td align="center" width="96">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+			<br />GitHub
+		</td>
+		<td align="center" width="96">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+			<br />VS Code
+		</td>
+		<td align="center" width="96">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
+			<br />Firebase
+		</td>
+	</tr>
+</table>
+
+<br />
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+	<img src="https://github-trophies.vercel.app/?username=suvajit-code&theme=monokai&no-frame=true&no-bg=false&margin-w=4" alt="GitHub trophies" />
+</div>
+
+## 📈 GitHub Stats
+
+<p align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suvajit-code&theme=tokyonight" alt="Profile details" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suvajit-code&theme=tokyonight" alt="Most commit language" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suvajit-code&theme=tokyonight" alt="Repos per language" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suvajit-code&theme=tokyonight" alt="Stats" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suvajit-code&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 📊 GitHub Activity
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suvajit-code&show_icons=true&locale=en&layout=compact" alt="suvajit-code" /></p>
+<p align="center">
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=suvajit-code&theme=react-dark&hide_border=true" alt="Activity graph" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suvajit-code&show_icons=true&locale=en" alt="suvajit-code" /></p>
+## Professional Focus
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suvajit-code&" alt="suvajit-code" /></p>
+<table>
+	<tr>
+		<td valign="top" width="50%">
+			<h3>What I Deliver</h3>
+			<ul>
+				<li>Clean, responsive interfaces with strong visual hierarchy</li>
+				<li>API-driven full stack features with maintainable architecture</li>
+				<li>Portfolio-ready presentation with motion and clarity</li>
+			</ul>
+		</td>
+		<td valign="top" width="50%">
+			<h3>How I Work</h3>
+			<ul>
+				<li>Start with user flow and UI structure</li>
+				<li>Build fast, readable, and testable code</li>
+				<li>Polish interaction details before shipping</li>
+			</ul>
+		</td>
+	</tr>
+</table>
+
+## Work
+
+<table>
+	<tr>
+		<td valign="top" width="33%">
+			<h3>Frontend Work</h3>
+			<p>Build responsive interfaces, reusable components, and polished motion patterns.</p>
+		</td>
+		<td valign="top" width="33%">
+			<h3>Backend Work</h3>
+			<p>Create APIs, manage data flow, and keep the logic maintainable and secure.</p>
+		</td>
+		<td valign="top" width="33%">
+			<h3>Portfolio Work</h3>
+			<p>Design a GitHub presence that looks modern, reliable, and interview-ready.</p>
+		</td>
+	</tr>
+</table>
+
+## Services
+
+<table>
+	<tr>
+		<td align="center" width="33%">
+			<strong>Frontend Engineering</strong>
+			<p>Modern interfaces, responsive layouts, and polished motion design.</p>
+		</td>
+		<td align="center" width="33%">
+			<strong>Backend Development</strong>
+			<p>Business logic, secure APIs, and data-driven application flows.</p>
+		</td>
+		<td align="center" width="33%">
+			<strong>Portfolio Styling</strong>
+			<p>GitHub profile branding, animated sections, and professional presentation.</p>
+		</td>
+	</tr>
+</table>
+
+## Current Focus
+
+<ul>
+	<li>Building stronger full stack projects with production-ready structure</li>
+	<li>Improving UI polish with live coding and terminal-inspired motion</li>
+	<li>Creating portfolio experiences that feel intentional and professional</li>
+</ul>
+<div align="center">
+	<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400" alt="Coding animation" />
+</div>
+
+<div align="center">
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=700&lines=Thanks+for+visiting!;Happy+Coding!+%F0%9F%9A%80" alt="Closing typing animation" />
+</div>
+
+## Contact
+
+<div align="center">
+	<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&width=760&lines=Let's+connect;Open+to+opportunities;Full+Stack+Developer+%7C+Clean+Code+%7C+Modern+Motion" alt="Contact typing animation" />
+</div>
+
+<p align="center">
+	<a href="mailto:suvajitg920@gmail.com">
+		<img src="https://img.shields.io/badge/Email-suvajitg920%40gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+	</a>
+	<a href="https://github.com/suvajit-code">
+		<img src="https://img.shields.io/badge/GitHub-suvajit--code-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+	</a>
+</p>
+
+<div align="center">
+	<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000" align="right" alt="footer gif" />
+</div>
+
+<div align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:020617&height=180&section=footer&text=Thanks%20for%20visiting&fontSize=34&fontColor=ffffff&animation=fadeIn" alt="footer banner" />
+</div>
+
+<p align="center">Fixed-style header, stronger work focus, and a cleaner footer finish for a more professional profile presentation.</p>
